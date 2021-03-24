@@ -13,7 +13,6 @@ import android.widget.Toast;
 public class SecondActivity extends AppCompatActivity
 {
 
-
     /**
      * Exécuté chaque fois que l'utilisateur clique sur l'icône de l'application pour une première fois.
      *

@@ -64,11 +64,13 @@ public class MainActivity extends AppCompatActivity {
             popUp("onStart()");
         }
 
+        /*
         @Override
         public void onRestoreInstanceState(Bundle savedInstanceState) {
             super.onRestoreInstanceState(savedInstanceState);
             String valeur = savedInstanceState.getString("abd");
         }
+        */
 
     /** ==============================================================
          * Exécutée à chaque passage en premier plan de l'activité.
