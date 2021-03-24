@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projetfac</string>
+    <string name="quitter">Quitter</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="valeur">Valeur</string>
+    <string name="seconde_activite">Activer la seconde activité</string>
+</resources>
